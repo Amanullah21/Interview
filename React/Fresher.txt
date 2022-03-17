@@ -84,27 +84,25 @@ Ans :-
         ReactDOM.render(container,rootElement);
         As one can see in the code above, we are directly using HTML inside JavaScript.
 
+
 7. What are the differences between functional and class components?
 Ans :- 
         Before the introduction of Hooks in React, functional components were called stateless components and were behind class components on a feature basis. After the introduction of Hooks, functional components are equivalent to class components.
+        Although functional components are the new trend, the react team insists on keeping class components in React. Therefore, it is important to know how these components differ.
+        On the following basis let’s compare functional and class components:
+        Declaration
+        Functional components are nothing but JavaScript functions and therefore can be declared using an arrow function or the function keyword:
 
-Although functional components are the new trend, the react team insists on keeping class components in React. Therefore, it is important to know how these components differ.
-
-On the following basis let’s compare functional and class components:
-
-Declaration
-Functional components are nothing but JavaScript functions and therefore can be declared using an arrow function or the function keyword:
-
-  function card(props){
-   return(
-      <div className="main-container">
-        <h2>Title of the card</h2>
-      </div>
-    )
-   }
-   const card = (props) =>{
-    return(
-      <div className="main-container">
+        function card(props){
+            return(
+                <div className="main-container">
+                    <h2>Title of the card</h2>
+                </div>
+            )
+        }
+        const card = (props) =>{
+        return(
+            <div className="main-container">
         <h2>Title of the card</h2>
       </div>
     )
