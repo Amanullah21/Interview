@@ -1,0 +1,9 @@
+Key Performance Indicator
+
+Tech Stack :- 
+ HTML, CSS, Javascript. 
+
+Role:-
+ I led the team, created about-us, section parts and managed the whole code on GitHub.
+
+I learned to manage the whole code on GitHub , collaborate in a team and communicate with team members because it was the first time we worked remotely.

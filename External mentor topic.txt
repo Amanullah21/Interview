@@ -1,0 +1,54 @@
+session 1
+Data Structures	
+Multi Dimensional Arrays	
+Complexity Analysis	
+Sorting Algorithms	
+Stacks and Queue	
+Recursion and Backtracking	
+Problem Solving	
+HTML and CSS	
+Advanced Javascript	
+Basics of Front End Development	
+Attempt to solve	
+Asking Appropriate Clarifying Question	
+Ability to use hints given by interviewer	
+Communication - Clarity in Explanation	
+Data Structures	
+Multi Dimensional Arrays	
+Complexity Analysis	
+Sorting Algorithms	
+Stacks and Queue	
+Recursion and Backtracking	
+Problem Solving	
+HTML and CSS	
+Advanced Javascript	
+Basics of Front End Development	
+Attempt to solve	
+Asking Appropriate Clarifying Question	
+Ability to use hints given by interviewer	
+Communication - Clarity in Explanation
+
+
+session 2
+Asking Appropriate Clarifying Question	
+Data Structures	
+Algorithms	
+Backend	
+React	
+React Redux	
+React Components	
+React State Management	
+React Conditional Rendering & Event Handling	
+React Context API	
+React Routing	
+React Hooks	
+Express JS	
+Mysql	
+Mongodb	
+MVC	
+Rest API	
+JSON Web Token	
+Web-sockets	
+Redis Caching	
+Communication
+
