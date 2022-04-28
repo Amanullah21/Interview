@@ -1,0 +1,109 @@
+what is hooks ?
+
+
+
+React Hooks
+Hooks are the new feature introduced in the React 16.8 version. It allows you to use state and other React features without writing a class. 
+Hooks are the functions which "hook into" React state and lifecycle features from function components. It does not work inside classes.
+Hooks are backward-compatible, which means it does not contain any breaking changes. Also, it does not replace your knowledge of React concepts.
+
+When to use a Hooks ?
+If you write a function component, and then you want to add some state to it, previously you do this by converting it to a class. 
+But, now you can do it by using a Hook inside the existing function component.
+
+Rules of Hooks
+Hooks are similar to JavaScript functions, but you need to follow these two rules when using them. Hooks rule ensures that
+ all the stateful logic in a component is visible in its source code. These rules are:
+
+1. Only call Hooks at the top level
+Do not call Hooks inside loops, conditions, or nested functions. Hooks should always be used at the top level of the React functions. 
+This rule ensures that Hooks are called in the same order each time a components renders.
+
+2. Only call Hooks from React functions
+You cannot call Hooks from regular JavaScript functions. Instead, you can call Hooks from React function components. Hooks can also be called from custom Hooks.
+
+
+
+what is useEffacet?
+
+
+
+The useEffect Hook allows you to perform side effects in your components.
+Some examples of side effects are: fetching data, directly updating the DOM, and timers.
+useEffect accepts two arguments. The second argument is optional.
+useEffect(<function>, <dependency>)
+
+they have 3 type of dependency 
+1)No dependency passed
+2)An empty array
+3)Props or state values:
+
+
+
+what is React Context ?
+
+
+
+React Context is a way to manage state globally.
+It can be used together with the useState Hook to share state between deeply nested components more easily than with useState alone.
+
+The Problem
+State should be held by the highest parent component in the stack that requires access to the state.
+To illustrate, we have many nested components. The component at the top and bottom of the stack need access to the state.
+To do this without Context, we will need to pass the state as "props" through each nested component. This is called "prop drilling".
+
+
+
+what is useRef  ?
+
+
+
+The useRef Hook allows you to persist values between renders.
+It can be used to store a mutable value that does not cause a re-render when updated.
+It can be used to access a DOM element directly.
+useRef() only returns one item. It returns an Object called current.
+When we initialize useRef we set the initial value: useRef(0).
+
+
+
+what is useReducer ?
+
+
+
+The useReducer Hook is similar to the useState Hook.
+It allows for custom state logic.
+If you find yourself keeping track of multiple pieces of state that rely on complex logic, useReducer may be useful.
+Syntax
+The useReducer Hook accepts two arguments.
+useReducer(<reducer>, <initialState>)
+
+
+
+
+What is ES6?
+
+
+
+ES6 stands for ECMAScript 6.
+ECMAScript was created to standardize JavaScript, and ES6 is the 6th version of ECMAScript, it was published in 2015, and is also known as ECMAScript 2015.
+
+
+
+
+Why Should I Learn ES6?
+
+
+
+React uses ES6, and you should be familiar with some of the new features like:
+Arrow Functions
+Variables (let, const, var)
+Array Methods like .map()
+Destructuring
+Modules
+Ternary Operator
+Spread Operator
+Classes
+
+
+
+
