@@ -1,21 +1,21 @@
 # Interview Question 
 
-##CSS
+## CSS
 
-##DSA
+## DSA
+ 
+## Email
 
-##Email
+## HR
 
-##HR
+## HTML
 
-##HTML
+## JavaScript
 
-##JavaScript
+## Linkdin
 
-##Linkdin
+## Portfolio
 
-##Portfolio
+## React
 
-##React
-
-##Resume
+## Resume
