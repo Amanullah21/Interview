@@ -1,8 +1,3 @@
-Here are all 30 frontend interview questions paired with concise, interview-ready answers.
-
----
-
-### Part 1: Fresher Frontend Questions & Answers (1–15)
 
 **1. What is the difference between `==` and `===` in JavaScript?**
 
